@@ -38,5 +38,12 @@ public class Test {
 		System.out.println(hara.age);
 
 
+		//演習６メソッド呼び出し
+		taro.talk();
+		taro.walk();
+		taro.run();
+
+
+
 	}
 }
