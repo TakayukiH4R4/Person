@@ -44,6 +44,20 @@ public class Test {
 		taro.run();
 
 
+		//演習８インスタンス化
+		Person aibo = new Person();
+		aibo.name = "アイボ";
+
+		Person asimo = new Person();
+		asimo.name = "アシモ";
+
+		Person pepper = new Person();
+		pepper.name = "ペッパー";
+
+		aibo.talk();
+		asimo.walk();
+		pepper.run();
+
 
 
 

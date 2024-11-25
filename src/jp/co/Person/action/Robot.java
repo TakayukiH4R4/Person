@@ -11,7 +11,7 @@ public class Robot {
 		System.out.println(this.name + "が歩く");
 	}
 	public void run() {
-		System.out.println(this.game + "が走る");
+		System.out.println(this.name + "が走る");
 	}
 
 
