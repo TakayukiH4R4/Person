@@ -7,9 +7,13 @@ public class Test {
 		Person taro = new Person();
 		taro.name = "山田太郎";
 		taro.age = 20;
+		taro.phoneNumber = "090-0000-0000";
+		taro.address = "236-0087";
 
 		System.out.println(taro.name);
 		System.out.println(taro.age);
+		System.out.println(taro.phoneNumber);
+		System.out.println(taro.address);
 
 
 		Person kimura = new Person();
